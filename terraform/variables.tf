@@ -1,11 +1,11 @@
 variable "aws_access_key" {
   type    = string
-  default = ""
+  default = "AKIAXYKJVCUALBIUQYNA"
 }
 
 variable "aws_secret_key" {
   type    = string
-  default = ""
+  default = "yQuiZRN05M95wo8wd/Wuvy3tB6MYMEmnERaDEKMr"
 }
 
 variable "name_prefix" {
